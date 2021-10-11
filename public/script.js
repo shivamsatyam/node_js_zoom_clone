@@ -13,7 +13,7 @@ send_message.addEventListener("click",(e)=>{
 
 
 const myPeer = new Peer(undefined,{
-  host:"3001-gray-porpoise-mf1on083.ws-us18.gitpod.io",
+  host:"shivamzoom.herokuapp.com",
   
 })
 
